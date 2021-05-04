@@ -1,13 +1,13 @@
-BaseUrl= "https://syui.cf/hugo-theme-air/"
+BaseUrl= "https://mod12d.github.io"
 LanguageCode= "en-US"
 Title= "Parachute"
 paginate = 5
 DisqusShortname = "Parachute"
 Copyright = "All rights reserved - 2016"
 canonifyurls = true
-
+publishDir = "docs"  # この行を追加
 [author]
-  name = "syui"
+  name = "Mod12d"
 
 [permalinks]
     post = "/post/:year/:month/:day/:slug"
@@ -15,16 +15,16 @@ canonifyurls = true
 [params]
   description = "社会人大学院生の勉強会メモなど"
   cover = "images/user.jpg"
-  author = "syui"
+  author = "Mod12d"
   authorlocation = ""
-  authorwebsite = "https://syui.cf/hugo-theme-air"
+  authorwebsite = ""
   bio= "my bio"
   logo = ""
   googleAnalyticsUserID = ""
   # Optional RSS-Link, if not provided it defaults to the standard index.xml
   RSSLink = ""
-  githubName = "syui"
-  twitterName = ""
+  githubName = "Mod12d"
+  twitterName = "_mod12_"
   # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
   hideHUGOSupport = false
   mainSections = ["post"]
