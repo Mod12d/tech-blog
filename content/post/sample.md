@@ -24,7 +24,7 @@ title= "tinyML勉強会メモ"
 
 ### What I did
 
-- tinyMLのchap1~3を読むi
+- tinyMLのchap1~3を読む
 - [EDGE IMPULSEにデータアップロード](https://studio.edgeimpulse.com/studio/25831)
 - [Arduino Nano 33 BLE Sensei](https://docs.edgeimpulse.com/docs/arduino-nano-33-ble-sense)を用いて、EDGE IMPULSE tutorial 
 
