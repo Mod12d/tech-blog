@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Parachute</title>
-    <link>https://mod12d.github.io/post/</link>
+    <link>https://mod12d.github.io/tech-blog/post/</link>
     <description>Recent content in Posts on Parachute</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>All rights reserved - 2016</copyright>
-    <lastBuildDate>Mon, 03 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://mod12d.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 03 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://mod12d.github.io/tech-blog/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>tinyML勉強会メモ</title>
-      <link>https://mod12d.github.io/post/2021/05/03/test/</link>
+      <link>https://mod12d.github.io/tech-blog/post/2021/05/03/test/</link>
       <pubDate>Mon, 03 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://mod12d.github.io/post/2021/05/03/test/</guid>
+      <guid>https://mod12d.github.io/tech-blog/post/2021/05/03/test/</guid>
       <description>概要(このページについて) -4/10に&amp;quot;tinyML勉強会&amp;quot;に参加した際の簡易メモ。
 動機 -IoT関連の知見を得たかった -PBLに取り組んでいるので、アイディアを探していた
 What I did  tinyMLのchap1~3を読むi EDGE IMPULSEにデータアップロード Arduino Nano 33 BLE Senseiを用いて、EDGE IMPULSE tutorial  NA  WebAssemblyとedge impuse Tiny MLのマジックワンドを試してみる。センサーを棒状の先につけて、学習ずみのモーションを行う（例えば空中で弧を描くと電気が点くなどができる）  </description>
@@ -21,10 +21,10 @@ What I did  tinyMLのchap1~3を読むi EDGE IMPULSEにデータアップロー�
     
     <item>
       <title>Post title</title>
-      <link>https://mod12d.github.io/post/2014/07/11/post-title/</link>
+      <link>https://mod12d.github.io/tech-blog/post/2014/07/11/post-title/</link>
       <pubDate>Fri, 11 Jul 2014 10:54:24 +0200</pubDate>
       
-      <guid>https://mod12d.github.io/post/2014/07/11/post-title/</guid>
+      <guid>https://mod12d.github.io/tech-blog/post/2014/07/11/post-title/</guid>
       <description></description>
     </item>
     

@@ -1,11 +1,12 @@
-BaseUrl= "https://mod12d.github.io"
+BaseUrl= "https://mod12d.github.io/tech-blog/"
 LanguageCode= "en-US"
 Title= "Parachute"
 paginate = 5
 DisqusShortname = "Parachute"
 Copyright = "All rights reserved - 2016"
+publishDir = "docs"  
 canonifyurls = true
-publishDir = "docs"  # この行を追加
+
 [author]
   name = "Mod12d"
 
