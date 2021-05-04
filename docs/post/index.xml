@@ -14,9 +14,7 @@
       <pubDate>Mon, 03 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://mod12d.github.io/tech-blog/post/2021/05/03/test/</guid>
-      <description>概要(このページについて) -4/10に&amp;quot;tinyML勉強会&amp;quot;に参加した際の簡易メモ。
-動機 -IoT関連の知見を得たかった -PBLに取り組んでいるので、アイディアを探していた
-What I did  tinyMLのchap1~3を読むi EDGE IMPULSEにデータアップロード Arduino Nano 33 BLE Senseiを用いて、EDGE IMPULSE tutorial  NA  WebAssemblyとedge impuse Tiny MLのマジックワンドを試してみる。センサーを棒状の先につけて、学習ずみのモーションを行う（例えば空中で弧を描くと電気が点くなどができる）  </description>
+      <description>概要(このページについて)  4/10に&amp;quot;tinyML勉強会&amp;quot;に参加した際の簡易メモ。  動機  IoT関連の知見を得たかった PBLに取り組んでいるので、アイディアを探していた  What I did  tinyMLのchap1~3を読むi EDGE IMPULSEにデータアップロード Arduino Nano 33 BLE Senseiを用いて、EDGE IMPULSE tutorial  NA  WebAssemblyとedge impuse Tiny MLのマジックワンドを試してみる。センサーを棒状の先につけて、学習ずみのモーションを行う（例えば空中で弧を描くと電気が点くなどができる）  ハンズオン WIP</description>
     </item>
     
     <item>
